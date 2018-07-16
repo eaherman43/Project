@@ -24,3 +24,5 @@ use the `cd` command
 foo <- function(arg1,arg2){
   <stuff>
 }```
+
+We are adding stuff to this document!
