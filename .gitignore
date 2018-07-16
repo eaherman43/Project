@@ -135,6 +135,6 @@ sympy-plots-for-*.tex/
 *.bak
 *.sav
 
-.DS-Store
+.DS_Store
 
 *.pdf
